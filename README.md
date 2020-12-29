@@ -1,4 +1,4 @@
-Get User ID Bot
+Weather Forecast LINE Bot
 ====
 
 <br><br>
