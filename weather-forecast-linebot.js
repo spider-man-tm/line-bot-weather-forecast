@@ -1,5 +1,5 @@
 const ACCESS_TOKEN = "YOUR ACCESS TOKEN";
-USER_ID = 'SEND USER';
+const USER_ID = 'SEND USER';
 const APIKEY = "WEATHER MAP APIKEY";
 const LAT = 0;  // 検索したい地点の緯度
 const LON = 0;  // 検索したい地点の経度
